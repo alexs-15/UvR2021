@@ -1,0 +1,5 @@
+init-+-init-+-bash
+     |      `-2*[vim]
+     |-init---init---bash-+-pstree
+     |                    `-3*[vim]
+     `-{init}
